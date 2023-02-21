@@ -1,2 +1,2 @@
-# Prepcourse-Henry
-Este es un repositorio de prueba del modulo 2 de Henry
+Paula Daniela Taron
+Este repositorio es una prueba de como crear un repositorio en Github y clonarlo a mi repositorio local
